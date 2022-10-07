@@ -10,7 +10,7 @@ function Hero() {
           <div className="col-md-6">
             <div className=" halloween-floki">
 
-            <h1 >Halloween Floki</h1>
+            <h1 >Halloween <br /> Floki</h1>
           </div>
             </div>
           <div className="col-md-6 floki">
