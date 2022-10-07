@@ -20,7 +20,7 @@ function Documents() {
             </h1>
           </div>{" "}
           <br /> <br />
-          <div className="justify-content-space-between">
+          <div className="d-flex justify-content-between">
             <div>
 
             <span>

@@ -1,7 +1,7 @@
 import './App.scss';
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle";
-// import Hero from './Components/Elements/Hero';
+import Hero from './Components/Elements/Hero';
 import Footer from './Components/Layouts/Footer';
 import Header from './Components/Layouts/Header';
 import Halloween from './Components/Elements/Halloween';
@@ -22,7 +22,7 @@ function App() {
   return (
     <div>
       <Header/>
-      {/* <Hero/> */}
+      <Hero/>
       
       <Halloween/>
       <Tokenomics/>

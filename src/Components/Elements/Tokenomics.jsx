@@ -5,7 +5,7 @@ import { BiWater } from "react-icons/bi";
 function Tokenomics() {
   return (
     <div className="tokenbg">
-      <div className="container-fluid tokem-padding">
+      <div className="container-fluid token-padding">
         <div className="contianer p-5">
         <div>
           <span>
@@ -65,7 +65,7 @@ function Tokenomics() {
 
           <div className="col-md-3 col-12">
             <div
-              className="card  p-3 m-2"
+              className="card tokencard p-3 m-2"
               style={{ maxwidth:"280px"}}
               >
               <FaDollarSign size={"100px"} /> <br />
@@ -82,7 +82,7 @@ function Tokenomics() {
 
           <div className="col-md-3 col-12">
             <div
-              className="card p-3 m-2"
+              className="card tokencard p-3 m-2"
               style={{ minHeight:"500px" }}
               >
               <FaBullhorn size={"100px"} /> <br />
@@ -99,7 +99,7 @@ function Tokenomics() {
 
           <div className="col-md-3 col-12">
             <div
-              className="card p-3 m-2"
+              className="card tokencard p-3 m-2"
               style={{minHeight:"500px"}}
               >
               <BiWater size={"100px"} /> <br />
@@ -117,7 +117,7 @@ function Tokenomics() {
 
           <div className="col-md-3 col-12">
             <div
-              className="card p-3 m-2"
+              className="card tokencard p-3 m-2"
               style={{ minHeight:"500px"}}
               >
               <FaUserShield size={"100px"} /> <br />

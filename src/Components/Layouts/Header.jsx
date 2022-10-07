@@ -22,39 +22,39 @@ function Header() {
             className="collapse navbar-collapse justify-content-end"
             id="navbarSupportedContent"
           >
-            <ul className="navbar-nav mb-2 mb-lg-0">
+            <ul className="navbar-nav mb-2 mb-lg-0 ">
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/">
+                <a className="nav-link active header-navbar" aria-current="page" href="/">
                   <b>About</b>
                 </a>
               </li>{" "}
               &nbsp; &nbsp; &nbsp;
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/">
+                <a className="nav-link active header-navbar" aria-current="page" href="/">
                   <b>Tokenomics</b>
                 </a>
               </li>
               &nbsp; &nbsp;&nbsp;
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/">
+                <a className="nav-link active header-navbar" aria-current="page" href="/">
                   <b>Roadmap</b>
                 </a>
               </li>{" "}
               &nbsp; &nbsp;&nbsp;
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/">
+                <a className="nav-link active header-navbar" aria-current="page" href="/">
                   <b>Documents</b>
                 </a>
               </li>
               &nbsp; &nbsp;&nbsp;
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/">
+                <a className="nav-link active header-navbar" aria-current="page" href="/">
                   <b>FAQ</b>
                 </a>
               </li>{" "}
               &nbsp; &nbsp;&nbsp;
-              <li className="nav-item">
-                <a className="nav-link active nft" aria-current="page" href="/">
+              <li className="nav-item nft">
+                <a className="nav-link active header-navbar" aria-current="page" href="/">
                   <b>MINT FLOH RAFFLE NFT</b>
                 </a>
               </li>{" "}

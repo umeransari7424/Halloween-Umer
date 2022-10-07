@@ -52,9 +52,9 @@ arrowIcon: <IoMdArrowDropright/>,
 function Faqs() {
   return (
     <div className="footerbg">
-      <div className="contianer-fluid">
+      <div className="contianer">
         <div className="row">
-          <div className="col-md-6 p-5">
+          <div className="col-md-6 ">
             <div >
               <div>
                 <span>
