@@ -7,7 +7,7 @@ function Hero() {
     <div className="bg">
       <div className="container text-center hero">
         <div className="row">
-          <div className="col-md-6">
+          <div className="col-md-6 hallo-text">
             <div className=" halloween-floki">
 
             <h1 >Halloween <br /> Floki</h1>

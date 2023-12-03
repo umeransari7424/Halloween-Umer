@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nosifer&family=Oswald:wght@200;300;600&family=Roboto:wght@300&family=Rubik+Wet+Paint&display=swap');
-.navbar{
-  background-color: #FF7300!important;
-}
+// .navbar{
+//   background-color: ;
+// }
 .bg{
   // height: 80vh;
   background-image: url("Media/halloween.jpeg");
@@ -10,7 +10,7 @@
   
 }
 .hero{
-  padding-top: 120px;
+  padding-top: 180px;
   padding-bottom: 120px;
 }
 .nft{
@@ -27,8 +27,11 @@
   display: flex;
   align-items: center;
 }
+.hallo-text{
+  display: flex;
+  align-items: center;
+}
 .halloween-floki{
-  text-align: center;
   color: white;
   font-family: "Nosifer";
   font-size: 50px;
@@ -153,3 +156,8 @@
   background-position: top left;
   color: white;
 }
+.header.active-scroll{
+  background-color: black !important;
+}
+
+

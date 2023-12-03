@@ -9,20 +9,12 @@ import Tokenomics from './Components/Elements/Tokenomics';
 import Documents from './Components/Elements/Documents';
 import Faqs from './Components/Utils/Faqs';
 import Roadmap from './Components/Elements/Roadmap';
-
-
-
-
-
-
-
-
-
 function App() {
   return (
     <div>
       <Header/>
       <Hero/>
+      
       
       <Halloween/>
       <Tokenomics/>

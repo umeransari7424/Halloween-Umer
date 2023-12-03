@@ -71,26 +71,12 @@ function Faqs() {
           <div class="col faq-img">
           <img
               className="img-fluid "
-              
               src="Assets/faqs.png"
               alt="Faq Message"
             />
           </div>
         </div>
       </div>
-      {/* <div className="contianer text-center">
-        <div className="row">
-          <div className="col  ">
-            <div >
-              
-            </div>
-          </div>
-
-          <div className="col ">
-            
-          </div>
-        </div>
-      </div> */}
     </div>
   );
 }
